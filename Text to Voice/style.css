@@ -1,0 +1,14 @@
+body {
+  background: #141414;
+}
+
+
+#text-input{
+    height: 250px;
+}
+
+#modal{
+  display: none;
+  color: red;
+  font-size: 80px;
+}
